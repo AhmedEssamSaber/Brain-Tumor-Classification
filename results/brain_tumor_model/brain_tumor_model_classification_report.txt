@@ -1,0 +1,10 @@
+Classification Report
+=====================
+              precision    recall  f1-score   support
+
+     Healthy     0.9712    0.9688    0.9700       417
+       Tumor     0.9742    0.9761    0.9752       503
+
+    accuracy                         0.9728       920
+   macro avg     0.9727    0.9725    0.9726       920
+weighted avg     0.9728    0.9728    0.9728       920
