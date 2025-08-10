@@ -59,7 +59,7 @@ pip install -r requirements/requirements.txt
 
   Accuracy: 97.8% on the validation set
 
-  Loss: 0.08
+  Loss: 0.04
 
   f1-score : 0.98
 
