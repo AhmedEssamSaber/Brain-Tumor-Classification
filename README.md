@@ -44,7 +44,7 @@ Brain-Tumor-Detection/
 ---
 ## Dataset
  * The dataset used is the **Brain Tumor MRI Dataset**.  
- * You can download it from Kaggle: [Brain Tumor Dataset](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection)  
+ * You can download it from Kaggle: [Brain Tumor Dataset]([https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection](https://www.kaggle.com/datasets/preetviradiya/brian-tumor-dataset))  
 ---
 
 ## Install requirements
